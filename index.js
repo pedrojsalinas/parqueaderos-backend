@@ -1,6 +1,8 @@
 var mysql = require('mysql');
 const { Sequelize } = require('sequelize');
 
+// conectar a mysql
+
 // var con = mysql.createConnection({
 //     host: "localhost",
 //     user: "root",
